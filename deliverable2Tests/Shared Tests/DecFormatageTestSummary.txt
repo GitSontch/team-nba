@@ -1,0 +1,1 @@
+This test case tests the ratio method from NumberUtils. Very simple and straightforward. Good thing to implement. 
