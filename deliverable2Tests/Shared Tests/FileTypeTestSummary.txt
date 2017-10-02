@@ -1,0 +1,1 @@
+I'm not entirely sure how this works. I think it detect valid files or disallows invalid ones. Definitely important. 
