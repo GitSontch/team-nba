@@ -1,2 +1,6 @@
-This is a long test case that runs through the computations that sigmah server performs.
-Definitely important and useful, but looks like a lot of work to make our own. 
+Notes:
+    --> This Server Computation test is of a method that will be used often.
+        --> This essentially creates a "mock" version of elements that will be used within the project models.
+        --> The mock project is then used to call "get" methods to retrieve specific information from the mock project.
+    
+    --> Again, JUnit's class Assert is used, returns an error if false. If true, all is given the green light.
