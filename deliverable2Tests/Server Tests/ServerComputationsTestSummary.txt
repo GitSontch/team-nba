@@ -1,0 +1,2 @@
+This is a long test case that runs through the computations that sigmah server performs.
+Definitely important and useful, but looks like a lot of work to make our own. 
