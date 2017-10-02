@@ -1,0 +1,2 @@
+This is a test case for the language detection system that uses cookies to determine the best language to display in.
+I think it is pretty cool but I'm not sure how to implement the serverside tests. 
