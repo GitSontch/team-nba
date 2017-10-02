@@ -1,0 +1,2 @@
+This is similar to the serverside computations test. I imagine this handles client side computations? 
+Definitely important as a test case. 
